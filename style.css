@@ -1,0 +1,40 @@
+.container{
+    margin: 0px auto;
+    height: 410px;
+    width: 600px;
+    background-color: darkcyan
+}
+
+button{
+    width: 190px;
+    margin-left:6px;
+    height: 60px;
+    font-size: 40px;
+}
+
+.display{
+    height: 100px;
+    background-color: whitesmoke;
+    border:4px solid darkcyan;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.answer{
+    font-weight: bolder;
+    color: brown;
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: antiquewhite;
+}
+body{
+    background: radial-gradient(rgb(46, 44, 44), black,     rgb(29, 27, 27))
+}
+
+.reload{
+    float: left;
+}
